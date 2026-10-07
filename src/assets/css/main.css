@@ -532,6 +532,12 @@
     color: #000;
 }
 
+.rna-hf .navigation-panel .navigation-panel--vehicles {
+    height: 100vh;
+}
+
+
+
 .rna-hf .navigation-panel.is-open {
     display: block;
 }
@@ -651,7 +657,7 @@
 
 .rna-hf .ContentWithLinks__sublinks {
     display: grid;
-    gap: 8px;
+    gap: 12px;
 }
 
 .rna-hf .ContentWithLinks__sublinks li a {
@@ -1472,7 +1478,7 @@ html.no-scroll body {
   }
   .rna-hf .VehicleRangeCards__cards {
     align-content: start;
-    max-height: calc(100vh - 128px - 56px - 32px);
+    max-height: calc(100vh - 128px - 56px);
     overflow-y: auto;
     padding-bottom: 32px;
     overscroll-behavior: contain;
