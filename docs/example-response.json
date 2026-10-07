@@ -1,0 +1,895 @@
+{
+  "id": 21,
+  "uuid": "aeb0c3a6-b57d-4325-818e-5cd367e40d2f",
+  "country": "rs",
+  "brand": 1,
+  "name": "Renault 2026",
+  "site_title": "Renault Srbija",
+  "site_url": "https://www.renault.rs/",
+  "logo_url": null,
+  "meta": {
+    "footer_trademark": "© renault 2017 - 2026",
+    "footer_disclaimer": "Možda su pojedini elementi sadržaja na našim veb-stranicama izmenjeni ili generisani uz pomoć veštačke inteligencije – prvenstveno pozadine, ilustracije i likova. Vozila iz naše ponude nisu generisana veštačkom inteligencijom, čime se obezbeđuje njihov realističan i veran prikaz.",
+    "back_to_top_title": "vratite se na početak stranice",
+    "mobile_menu_title": "meni",
+    "mobile_close_title": "zatvorite"
+  },
+  "active": 1,
+  "switch_navigation": {
+    "title": "Switch",
+    "schema": [
+      {
+        "title": "putnička vozila",
+        "url": "https://www.renault.rs/",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "active": "true"
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "business korisnici",
+        "url": "https://www.renaultpro.rs/",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "top_navigation": {
+    "title": "Top navigation",
+    "schema": [
+      {
+        "title": "pretraga",
+        "url": "https://www.renault.rs/pretraga.html",
+        "target": null,
+        "icon": "search",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "kupite novo vozilo",
+        "url": "#",
+        "target": null,
+        "icon": "cart",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "zatražite ponudu",
+            "url": "https://www.renault.rs/kontakt/izaberite-kupovinu.html",
+            "target": null,
+            "icon": "request-offer",
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "pogledajte ponudu",
+            "url": "https://www.renault.rs/ponude.html",
+            "target": null,
+            "icon": "view-offer",
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "naša mreža",
+        "url": "https://www.renault.rs/prodajno-servisna-mreza.html",
+        "target": null,
+        "icon": "location",
+        "meta": {
+          "mobile": "true"
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "kontakt",
+        "url": "https://www.renault.rs/kontakt.html",
+        "target": null,
+        "icon": "contact",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "main_navigation": {
+    "title": "Main navigation",
+    "schema": [
+      {
+        "title": "naša vozila",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "type": "vehicles",
+          "filters_title": "filtriraj vozila",
+          "category_label": "kategorije",
+          "category_tooltip": "filtriraj model po kategoriji",
+          "energy_label": "motori",
+          "energy_tooltip": "filtriraj model po tipu motora",
+          "card_cta_title": "oktrijte ga",
+          "card_close_title": "zatvorite"
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "putnička vozila",
+            "url": "https://www.renault.rs/putnicka-vozila.html",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "type": "category",
+              "more_title": "pogledajte putnička vozila"
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "TWINGO",
+                "url": "https://www.renault.rs/elektricna-vozila/twingo.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": "od 19.990 €",
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-twingo-e-tech-techno",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-twingo-e-tech-techno",
+                  "energy": "electric"
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "RENAULT 5",
+                "url": "https://www.renault.rs/elektricna-vozila/renault-5.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": "od 28.990 €",
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-5-iconic",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-5-iconic",
+                  "energy": "electric"
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "NOVI ESPACE",
+                "url": "https://www.renault.rs/hibridna-vozila/espace.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": null,
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-espace-esprit-alpine",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-espace-esprit-alpine",
+                  "energy": "hybrid"
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "RAFALE",
+                "url": "https://www.renault.rs/hibridna-vozila/rafale.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": "od 39.490 €",
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-rafale-atelier-alpine",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-rafale-atelier-alpine",
+                  "energy": "hybrid,hybridPlugin"
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "laka komercijalna vozila",
+            "url": "https://www.renaultpro.rs/laka-komercijalna-vozila.html",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "type": "category",
+              "more_title": "pogledajte laka komercijalna vozila",
+              "pro": "true"
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "KANGOO VAN",
+                "url": "https://www.renaultpro.rs/laka-komercijalna-vozila/kangoo-van.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": "od 17.927 €",
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-kangoo-van-extra-l2",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-kangoo-van-extra-l2",
+                  "energy": "petrol"
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "TRAFIC VAN",
+                "url": "https://www.renaultpro.rs/laka-komercijalna-vozila/trafic-van.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "price": "od 22.942 €",
+                  "image": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY1/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-trafic-van-fourgon-l2h1p3",
+                  "image_large": "https://www.renault.rs/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Fserbia-importer%2Frenault-trafic-van-fourgon-l2h1p3",
+                  "energy": "diesel"
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "otkrijte naše motore",
+            "url": "https://www.renault.rs/pogonski-motori.html",
+            "target": null,
+            "icon": "engine",
+            "meta": {
+              "type": "shortcut"
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "vozila na zalihi",
+            "url": "https://www.izaberiiodvezi.renault.rs/?p=1",
+            "target": "_blank",
+            "icon": "stock",
+            "meta": {
+              "type": "shortcut"
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "ponuda polovnih vozila",
+            "url": "https://www.polovnavozila.renault.rs/?p=1",
+            "target": "_blank",
+            "icon": "used",
+            "meta": {
+              "type": "shortcut"
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "ponude i finansiranje",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "type": "links"
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "pronađite Renault vozilo",
+            "url": null,
+            "target": null,
+            "icon": null,
+            "meta": {
+              "type": "highlight",
+              "image": "https://cdn.group.renault.com/ren/master/renault-new-cars/editorial/new-homepage/new-homepage-international/navigation/renault-new-navigation-buy-tab-001.png.ximg.small.webp/13475ce2cd.webp"
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "otkrijte sve naše motore",
+                "url": "/pogonski-motori.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "trenutna ponuda",
+                "url": "/ponude/ponude-za-fizicka-i-pravna-lica.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "planirajte svoju kupovinu",
+            "url": null,
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "otkrijte naše motore",
+                "url": "/pogonski-motori.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "zatražite ponudu",
+                "url": "/kontakt/izaberite-kupovinu.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "zakažite probnu vožnju",
+                "url": "/kontakt/zakazite-probnu-voznju.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "zakažite servis",
+                "url": "/kontakt/zakazite-servis.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "pronađite dilera",
+                "url": "/prodajno-servisna-mreza.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "kupite vozilo",
+            "url": null,
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "jesenja ponuda putničkih vozila",
+                "url": "/ponude/ponuda-putnickih-vozila.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "jesenja ponuda dostavnih vozila",
+                "url": "/ponude/ponuda-dostavnih-vozila.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "vozila na zalihi",
+                "url": "https://www.izaberiiodvezi.renault.rs/?p=1",
+                "target": "_blank",
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "finansiranje",
+            "url": null,
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "finansiranje za fizička lica",
+                "url": "/ponude/finasiranje-za-fizicka-lica.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "finansiranje za pravna lica",
+                "url": "/ponude/finansiranje-za-pravna-lica.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "kupite dodatnu opremu i usluge",
+            "url": null,
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": [
+              {
+                "title": "multimedija",
+                "url": "/renault-multimedija.html",
+                "target": null,
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              },
+              {
+                "title": "The originals Renault store",
+                "url": "https://theoriginals-store.renault.com/en/",
+                "target": "_blank",
+                "icon": null,
+                "meta": {
+                  "": null
+                },
+                "active": 1,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "electric i hybrid",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "type": "links"
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "održavanje i usluge",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "type": "links"
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "Renault svet",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "type": "links"
+        },
+        "active": 1,
+        "children": []
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "footer_cta_navigation": {
+    "title": "Footer CTA",
+    "schema": [
+      {
+        "title": "zakažite probnu vožnju",
+        "url": "#",
+        "target": null,
+        "icon": "https://cdn.group.renault.com/pictograms/D2-0_Pre-footer/renault-car-rental.svg.asset.svg/750c9e4dc5.svg",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "zakažite servis",
+        "url": "#",
+        "target": null,
+        "icon": "https://cdn.group.renault.com/pictograms/D2-0_Pre-footer/renault-car-rental.svg.asset.svg/750c9e4dc5.svg",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "zatražite ponudu",
+        "url": "#",
+        "target": null,
+        "icon": "https://cdn.group.renault.com/pictograms/D2-0_Pre-footer/renault-car-rental.svg.asset.svg/750c9e4dc5.svg",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "pronađite dilera",
+        "url": "#",
+        "target": null,
+        "icon": "https://cdn.group.renault.com/pictograms/D2-0_Pre-footer/renault-car-rental.svg.asset.svg/750c9e4dc5.svg",
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "mainfooter": {
+    "title": "Main footer",
+    "schema": [
+      {
+        "title": "korisnička podrška",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "Kontakt",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Česta pitanja",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Podrška",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "vozila",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "Kontakt",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Česta pitanja",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Podrška",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "usluge",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "Kontakt",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Česta pitanja",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Podrška",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Renault svet",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "Kontakt",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Česta pitanja",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Podrška",
+            "url": "#",
+            "target": null,
+            "icon": null,
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "social_navigation": {
+    "title": "Social navigation",
+    "schema": [
+      {
+        "title": "ostanite povezani",
+        "url": null,
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": [
+          {
+            "title": "Facebook",
+            "url": "https://www.facebook.com/renault",
+            "target": null,
+            "icon": "https://cdn.group.renault.com/pictograms/S56-0_Footer/renault-new-HP-facebook.svg.asset.svg/70d1eb16cc.svg",
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          },
+          {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/renault",
+            "target": null,
+            "icon": "https://cdn.group.renault.com/pictograms/S56-0_Footer/renault-new-HP-facebook.svg.asset.svg/70d1eb16cc.svg",
+            "meta": {
+              "": null
+            },
+            "active": 1,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  },
+  "legal_navigation": {
+    "title": "Legal navigation",
+    "schema": [
+      {
+        "title": "pravna obaveštenja",
+        "url": "#",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "politika privatnosti",
+        "url": "#",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "kolačići",
+        "url": "#",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      },
+      {
+        "title": "kontakt",
+        "url": "#",
+        "target": null,
+        "icon": null,
+        "meta": {
+          "": null
+        },
+        "active": 1,
+        "children": []
+      }
+    ],
+    "meta": {
+      "": null
+    },
+    "active": 1
+  }
+}
