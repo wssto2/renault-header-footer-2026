@@ -182,6 +182,10 @@
     font-family: 'NouvelR', sans-serif;
 }
 
+.rna-hf {
+    padding-bottom: 128px;
+}
+
 
 .rna-hf header {
     position: fixed;
